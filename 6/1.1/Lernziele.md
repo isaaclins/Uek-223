@@ -1,6 +1,0 @@
-- Ich kann die Begriffe aus dem Themengebiet Enterprise Application Plattformen (EAP) gezielt einsetzen.  
-- Ich kenne die Anwendungszwecke einer EAP.
-- Ich kenne Werkzeuge und Hilfsmittel, womit Mehrbenutzersysteme gebaut werden.
-- Ich kenne die Herausforderungen von Mehrbenutzersystemen.
-- Ich kann ein neues Projekt auf Basis einer EAP initialisieren.
-- Ich kann ein bestehendes EAP Projekt analysieren.
