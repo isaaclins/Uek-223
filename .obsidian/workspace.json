@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1b1191f6f55363fa",
+        "id": "84cfa949741a7d86",
         "type": "tabs",
         "children": [
           {
-            "id": "4efd2853b3424a64",
+            "id": "c611f841b219c67d",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "1/1.1/Lösung/Pasted image 20241104083747.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241104083747"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -160,12 +158,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4efd2853b3424a64",
+  "active": "c476264b4051bb62",
   "lastOpenFiles": [
+    "1/1.1/Lösung/Pasted image 20241104083747.png",
     "1/1.1.zip",
     "1/1.1/Aufgabe/User Interfaces, Datenbankanpassungen und Transaktionen implementieren.md",
     "Untitled.md",
-    "1/1.1/Lösung/Pasted image 20241104083747.png",
     "1/1.1/Aufgabe",
     "1/1.1/Lösung",
     "1/1.1/Aufgabe/Einschätzen, ob eine Datenbank die Anforderungen der Multi-User-Fähigkeit erfüllt und allfällige Anpassungen dokumentieren.md",
