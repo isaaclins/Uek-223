@@ -16,4 +16,3 @@
 - **UML (Unified Modeling Language):** Eine standardisierte Modellierungssprache zur Visualisierung und Dokumentation von Softwaresystemen.
 - **Klassendiagramm:** Ein Diagramm, das die Klassen und deren Beziehungen in einem System darstellt.
 - **Sequenzdiagramm:** Ein Diagramm, das die Interaktionen zwischen Objekten in der Reihenfolge, in der sie auftreten, darstellt.
-
